@@ -1,0 +1,8 @@
+configuration {
+    modi: "window,drun,ssh";
+    show-icons: true;
+    font: "IBM Plex Mono 12";
+    terminal: "alacritty";
+}
+
+@theme "~/.config/rofi/black.rasi"
