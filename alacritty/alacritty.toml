@@ -2,7 +2,7 @@
 live_config_reload = true
 
 [window]
-opacity = 0.75
+opacity = 0.3
 
 [font]
 normal = { family = "IBM Plex Mono", style = "Regular" }
@@ -17,59 +17,27 @@ style = { shape = "Underline", blinking = "Always" }
 blink_interval = 300
 blink_timeout = 5
 
-[colors.cursor]
-text                  = "#ffffff"
-cursor                = "#ffffff"
-
-[colors.vi_mode_cursor]
-text                  = "#ffffff"
-cursor                = "#ffffff"
-
-[colors.search.matches]
-foreground            = "#ffffff"
-background            = "#111111"
-
-[colors.search.focused_match]
-foreground            = "#ffffff"
-background            = "#111111"
-
-[colors.hints.start]
-foreground            = "#ffffff"
-background            = "#111111"
-
-[colors.hints.end]
-foreground            = "#ffffff"
-background            = "#111111"
-
-[colors.footer_bar]
-foreground            = "#ffffff"
-background            = "#111111"
-
-[colors.selection]
-text                  = "#ffffff"
-background            = "#111111"
-
 [colors.primary]
-background = "#0f1517"
-foreground = "#dce6e7"
+background = "#f8f8ba"
+foreground = "#181818"
 
 [colors.normal]
-black   = "#2f3a3d"
-red     = "#7b8a8f"
-green   = "#89969c"
-yellow  = "#c3ced2"
-blue    = "#a8b7bd"
-magenta = "#4f5a5e"
-cyan    = "#ebeef0"
+black   = "#4f5a5e"
+red     = "#d00000"
+green   = "#007f2f"
+yellow  = "#b88600"
+blue    = "#0057d8"
+magenta = "#8800aa"
+cyan    = "#008a9e"
 white   = "#dce6e7"
 
 [colors.bright]
-black   = "#3a4649"
-red     = "#89969c"
-green   = "#a8b7bd"
-yellow  = "#d7e1e4"
-blue    = "#c3ced2"
-magenta = "#7b8a8f"
-cyan    = "#f3f7f8"
-white   = "#ffffff"
+black   = "#89969c"
+red     = "#ff3030"
+green   = "#00b94a"
+yellow  = "#e6aa00"
+blue    = "#2c7cff"
+magenta = "#b44ad8"
+cyan    = "#00bcd4"
+white   = "#ebeef0"
 

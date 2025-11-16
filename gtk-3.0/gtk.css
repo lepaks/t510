@@ -1,0 +1,19 @@
+calendar {
+    font-family: "Envy Code R";
+    font-size: 12px;
+    background-color: #ebeef0;
+    color: #2f3a3d;
+    padding: 6px;
+}
+
+calendar:selected {
+    background-color: #a8b7bd;
+    color: #0f1517;
+    border-radius: 1px;
+}
+
+calendar > header {
+    background-color: #ebeef0;
+    color: #2f3a3d;
+    border-bottom: 1px solid #c3ced2;
+}
