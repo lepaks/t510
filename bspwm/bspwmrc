@@ -13,7 +13,6 @@ bspc config gapless_monocle      true
 
 bspc config top_padding 35
 
-systemd restart systemd-resolved.service
 setxkbmap cz
 polybar &
 picom &
