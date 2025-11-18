@@ -5,4 +5,4 @@ configuration {
     terminal: "alacritty";
 }
 
-@theme "~/.config/rofi/black.rasi"
+@import "~/.cache/wal/colors-rofi-dark"
